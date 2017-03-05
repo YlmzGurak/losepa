@@ -1,0 +1,372 @@
+body{
+
+font-size: 1.5em;
+color: white;
+font-family: "Times New Roman", Times, serif;
+margin-left:0px;
+padding-left:0px;
+
+}
+
+
+}
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+  height: 100px;
+
+}
+
+@media (min-width: 1200px) {
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+
+}
+
+#right-nav span{
+
+font-size: 3em;
+
+}
+
+#right-nav{
+padding-right:30px;
+padding-top: 25px;
+margin-bottom: 0px;
+font-family: "Times New Roman", Times, serif;
+}
+
+.glyphicon {
+
+right:20px;
+
+}
+
+#deneme{
+margin-top:10px;
+width:100%;
+height:750px;
+background-image: url("career.jpg");
+background-size: 100% 750px;
+background-repeat: no-repeat;
+}
+
+#eray {
+
+width: 950px;
+background: rgba(0, 0, 0, 0.4);
+color:white;
+padding: 0px;
+margin-top:140px;
+margin-left:10px;
+font-size:17px;
+text-align: -webkit-auto;
+padding-left: 20px;
+
+}
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+  height: 100px;
+
+}
+
+#deneme{
+margin-top:30px;
+width:100%;
+height:750px;
+background-image: url("career.jpg");
+background-size: 100% 750px;
+background-repeat: no-repeat;
+}
+
+#eray {
+
+width: 800px;
+background: rgba(0, 0, 0, 0.4);
+color:white;
+padding: 0px;
+margin-top:140px;
+margin-left:1px;
+font-size:17px;
+text-align: -webkit-auto;
+padding-left: 20px;
+
+}
+
+}
+
+
+@media (min-width: 767px) and (max-width: 991px) {
+
+#logo {
+height: 70px;
+margin-top: 0px;
+}
+
+#deneme{
+margin-top:45px;
+width:100%;
+height:900px;
+background-image: url("career1.jpg");
+background-size: 100% 900px;
+background-repeat: no-repeat;
+}
+
+#eray {
+
+width: 710px;
+background: rgba(0, 0, 0, 0.4);
+color:white;
+padding: 0px;
+margin-top:140px;
+margin-left:1px;
+font-size:17px;
+text-align: -webkit-auto;
+padding-left: 20px;
+
+}
+
+}
+@media (min-width: 421px) and (max-width: 766px) {
+
+#logo {
+height: 70px;
+margin-top: 0px;
+}
+
+#deneme{
+margin-top:40px;
+width:100%;
+height:700px;
+background-image: url("career1.jpg");
+background-size: 100% 700px;
+background-repeat: no-repeat;
+}
+
+#eray {
+
+width: 350px;
+background: rgba(0, 0, 0, 0.4);
+color:white;
+padding: 0px;
+margin-top:40px;
+margin-left:1px;
+font-size:14px;
+text-align: -webkit-auto;
+padding-left: 20px;
+
+}
+h1{
+font-size:16px;
+}
+}
+@media (min-width: 386px) and (max-width: 420px) {
+
+#logo {
+height: 70px;
+margin-top: 0px;
+}
+
+#deneme{
+margin-top:40px;
+width:100%;
+height:670px;
+background-image: url("career1.jpg");
+background-size: 100% 670px;
+background-repeat: no-repeat;
+}
+
+#eray {
+
+width: 375px;
+background: rgba(0, 0, 0, 0.4);
+color:white;
+padding: 0px;
+margin-top:30px;
+margin-left:1px;
+font-size:14px;
+text-align: -webkit-auto;
+padding-left: 20px;
+
+}
+h1{
+font-size:13px;
+}
+}
+@media (min-width: 326px) and (max-width: 385px) {
+
+#logo {
+height: 70px;
+margin-top: 0px;
+}
+
+#deneme{
+margin-top:35px;
+width:100%;
+height:590px;
+background-image: url("career1.jpg");
+background-size: 100% 590px;
+background-repeat: no-repeat;
+}
+
+#eray {
+
+width: 350px;
+background: rgba(0, 0, 0, 0.4);
+color:white;
+padding: 0px;
+margin-top:10px;
+margin-left:1px;
+font-size:13px;
+text-align: -webkit-auto;
+padding-left: 20px;
+
+}
+h1{
+font-size:12px;
+}
+}
+
+@media (max-width: 325px){
+
+#logo {
+height: 70px;
+margin-top: 0px;
+}
+
+#deneme{
+margin-top:35px;
+width:100%;
+height:560px;
+background-image: url("career1.jpg");
+background-size: 100% 560px;
+background-repeat: no-repeat;
+}
+
+#eray {
+
+width: 310px;
+background: rgba(0, 0, 0, 0.4);
+color:white;
+padding: 0px;
+margin-top:10px;
+margin-left:1px;
+font-size:12px;
+text-align: -webkit-auto;
+padding-left: 20px;
+
+}
+h1{
+font-size:12px;
+}
+
+}
+
+/**************************** Media Queries***********************
+
+@media (min-width: 1200px) {
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+
+}
+
+#right-nav span{
+
+font-size: 3em;
+
+}
+
+#right-nav{
+padding-right:30px;
+padding-top: 25px;
+margin-bottom: 0px;
+font-family: "Times New Roman", Times, serif;
+}
+
+.glyphicon {
+
+right:20px;
+
+}
+
+
+#alan{
+
+top: 150px;
+left: 80px;
+
+}
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+  height: 100px;
+
+}
+}
+
+
+@media (max-width: 767px) {
+
+h1{
+font-size: 30px;
+}
+h3{
+font-size: 24px;
+}
+address{
+font-size: 20px;
+}
+
+}
+@media (max-width: 479px){
+
+h1{
+font-size: 24px;
+}
+h3{
+font-size: 20px;
+}
+address{
+font-size: 16px;
+}
+}
+
+@media (max-width: 400px){
+
+h1{
+font-size: 24px;
+}
+h3{
+font-size: 20px;
+}
+address{
+font-size: 16px;
+}
+
+}
+****/
