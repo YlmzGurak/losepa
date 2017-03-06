@@ -191,6 +191,9 @@ background-color: #25336D;
 
 @media (min-width: 1200px) {
 
+.navbar-header{
+background-color:#ffffff;
+}
 .carousel-inner .item img {
 height: 500px;
 
@@ -279,6 +282,9 @@ top:0%;
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
+.navbar-header{
+background-color:#ffffff;
+}
 .carousel-inner .item img {
 height: 500px;
 }
@@ -373,7 +379,9 @@ height: 450px;
   border-radius: 0;
   border: 0;
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 #transmethod {
 
 padding-top: 7px;
@@ -453,6 +461,11 @@ font-size:25px;
 
 
 @media (max-width: 767px) {
+
+.navbar-header{
+background-color:#ffffff;
+}
+  
 .carousel-inner .item img {
 height: 400px;
 }
@@ -526,6 +539,10 @@ font-size:25px;
 }
 @media (max-width: 479px){
 
+.navbar-header{
+background-color:#ffffff;
+}
+  
 .carousel-inner .item img {
 height: 250px;
 }
