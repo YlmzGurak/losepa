@@ -603,7 +603,10 @@ height: 64px;
 margin-top: -10px;
 
 }
-
+.navbar-header{
+height:80px;
+background-color:#FBFBFB;
+}
 
 #transmethod {
 
