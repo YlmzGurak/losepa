@@ -22,6 +22,10 @@ background: linear-gradient(#ffffff, #ffffff); /* Standard syntax */
 
 }
 
+.navbar-header{
+background-color:#ffffff;
+}
+
 #nav-list {
   margin-top: 10px;
 }
