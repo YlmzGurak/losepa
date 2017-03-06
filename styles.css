@@ -19,7 +19,7 @@ background: linear-gradient(#ffffff, #ffffff); /* Standard syntax */
 
   border-radius: 0;
   border: 0;
-
+  background-color:#ffffff;
 }
 
 .navbar-header{
