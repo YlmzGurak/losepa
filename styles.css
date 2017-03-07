@@ -191,6 +191,12 @@ background-color: #25336D;
 
 @media (min-width: 1200px) {
 
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+  background-color:#ffffff;
+}
 .navbar-header{
 background-color:#ffffff;
 }
@@ -202,7 +208,7 @@ height: 500px;
 
   border-radius: 0;
   border: 0;
-
+  background-color:#ffffff;
 }
 
 #form{
