@@ -7,7 +7,9 @@ margin-left:0px;
 padding-left:0px;
 
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 
 }
 
@@ -47,8 +49,9 @@ right:20px;
 
 }
 .navbar-header{
-background-color:#FBFBFB;
+background-color:#ffffff;
 }
+
 #deneme{
 margin-top:10px;
 width:100%;
@@ -87,7 +90,11 @@ padding-left: 20px;
 }
 .navbar-header{
 height:80px;
-background-color:#FBFBFB;
+background-color:#ffffff;
+}
+#header-nav{
+  border-radius: 0;
+  border: 0;
 }
 #deneme{
 margin-top:0px;
@@ -123,7 +130,11 @@ margin-top: 0px;
 }
 .navbar-header{
 height:80px;
-background-color:#FBFBFB;
+background-color:#ffffff;
+}
+#header-nav{
+  border-radius: 0;
+  border: 0;
 }
 #deneme{
 margin-top:15px;
@@ -157,7 +168,11 @@ margin-top: 0px;
 }
 .navbar-header{
 height:80px;
-background-color:#FBFBFB;
+background-color:#ffffff;
+}
+#header-nav{
+  border-radius: 0;
+  border: 0;
 }
 #deneme{
 margin-top:10px;
@@ -193,7 +208,11 @@ margin-top: 0px;
 }
 .navbar-header{
 height:80px;
-background-color:#FBFBFB;
+background-color:#ffffff;
+}
+#header-nav{
+  border-radius: 0;
+  border: 0;
 }
 #deneme{
 margin-top:10px;
@@ -229,7 +248,11 @@ margin-top: 0px;
 }
 .navbar-header{
 height:80px;
-background-color:#FBFBFB;
+background-color:#ffffff;
+}
+#header-nav{
+  border-radius: 0;
+  border: 0;
 }
 #deneme{
 margin-top:5px;
@@ -266,7 +289,11 @@ margin-top: 0px;
 }
 .navbar-header{
 height:80px;
-background-color:#FBFBFB;
+background-color:#ffffff;
+}
+#header-nav{
+  border-radius: 0;
+  border: 0;
 }
 #deneme{
 margin-top:5px;
