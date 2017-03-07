@@ -13,7 +13,9 @@ font-family: "Times New Roman", Times, serif;
   height: 100px;
 
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 .con{
 font-size:24px;
 }
@@ -54,7 +56,9 @@ margin-left:150px;
 font-size: 3em;
 
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 #deneme{
 margin-top:-20px;
 width:100%;
@@ -111,7 +115,9 @@ font-size:20.8px;
   border: 0;
 }
 
-
+.navbar-header{
+background-color:#ffffff;
+}
 #deneme{
 margin-top:-20px;
 width:100%;
@@ -165,7 +171,9 @@ font-size:18px;
   border: 0;
 }
 
-
+.navbar-header{
+background-color:#ffffff;
+}
 #deneme{
 margin-top:-20px;
 width:100%;
@@ -231,7 +239,9 @@ margin-top: 0px;
   border-radius: 0;
   border: 0;
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 #deneme{
 margin-top:-30px;
 width:100%;
@@ -280,7 +290,9 @@ margin-top: 0px;
   border-radius: 0;
   border: 0;
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 #deneme{
 margin-top:-20px;
 width:100%;
@@ -329,7 +341,9 @@ margin-top: 0px;
   border-radius: 0;
   border: 0;
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 #deneme{
 margin-top:-30px;
 width:100%;
@@ -378,7 +392,9 @@ margin-top: 0px;
   border-radius: 0;
   border: 0;
 }
-
+.navbar-header{
+background-color:#ffffff;
+}
 #deneme{
 margin-top:-30px;
 width:100%;
