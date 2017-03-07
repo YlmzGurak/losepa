@@ -116,6 +116,11 @@ padding-left: 20px;
   .navbar-header{
 background-color:#ffffff;
 }
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+}
 #logo {
 height: 70px;
 margin-top: 0px;
@@ -148,6 +153,11 @@ padding-left: 20px;
 @media (min-width: 421px) and (max-width: 766px) {
   .navbar-header{
 background-color:#ffffff;
+}
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
 }
 #logo {
 height: 70px;
@@ -184,6 +194,11 @@ font-size:16px;
   .navbar-header{
 background-color:#ffffff;
 }
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+}
 #logo {
 height: 70px;
 margin-top: 0px;
@@ -218,6 +233,11 @@ font-size:16px;
 @media (min-width: 326px) and (max-width: 385px) {
   .navbar-header{
 background-color:#ffffff;
+}
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
 }
 #logo {
 height: 70px;
@@ -255,6 +275,11 @@ font-size:15px;
 
   .navbar-header{
 background-color:#ffffff;
+}
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
 }
 #logo {
 height: 70px;
