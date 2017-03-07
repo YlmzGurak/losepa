@@ -18,7 +18,7 @@ background-color:#ffffff;
   border-radius: 0;
   border: 0;
   height: 100px;
-
+background-color:#ffffff;
 }
 
 @media (min-width: 1200px) {
@@ -27,6 +27,7 @@ background-color:#ffffff;
 
   border-radius: 0;
   border: 0;
+  background-color:#ffffff;
 
 }
 
@@ -86,6 +87,7 @@ padding-left: 20px;
   border-radius: 0;
   border: 0;
   height: 100px;
+  background-color:#ffffff;
 
 }
 .navbar-header{
@@ -135,6 +137,7 @@ background-color:#ffffff;
 #header-nav{
   border-radius: 0;
   border: 0;
+  background-color:#ffffff;
 }
 #deneme{
 margin-top:15px;
@@ -173,6 +176,7 @@ background-color:#ffffff;
 #header-nav{
   border-radius: 0;
   border: 0;
+  background-color:#ffffff;
 }
 #deneme{
 margin-top:10px;
@@ -213,6 +217,7 @@ background-color:#ffffff;
 #header-nav{
   border-radius: 0;
   border: 0;
+  background-color:#ffffff;
 }
 #deneme{
 margin-top:10px;
@@ -253,6 +258,7 @@ background-color:#ffffff;
 #header-nav{
   border-radius: 0;
   border: 0;
+  background-color:#ffffff;
 }
 #deneme{
 margin-top:5px;
@@ -294,6 +300,7 @@ background-color:#ffffff;
 #header-nav{
   border-radius: 0;
   border: 0;
+  background-color:#ffffff;
 }
 #deneme{
 margin-top:5px;
