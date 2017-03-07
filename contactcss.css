@@ -34,6 +34,7 @@ background-color:#ffffff;
   border-radius: 0;
   border: 0;
   height: 100px;
+  background-color:#ffffff;
 
 }
 /**************************** Media Queries***************************/
@@ -44,7 +45,8 @@ background-color:#ffffff;
 
   border-radius: 0;
   border: 0;
-
+  background-color:#ffffff;
+  margin-bottom:0px;
 }
 .navbar-header{
 background-color:#ffffff;
@@ -137,7 +139,8 @@ height:248px;
 
   border-radius: 0;
   border: 0;
-
+ background-color:#ffffff;
+  margin-bottom:0px;
 }
 .navbar-header{
 background-color:#ffffff;
@@ -222,6 +225,15 @@ height:250px;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+ background-color:#ffffff;
+  margin-bottom:0px;
+}
+  
 .navbar-header{
 background-color:#ffffff;
 }
@@ -288,6 +300,15 @@ width:500px;
 }
 
 @media (min-width: 421px) and (max-width: 767px) {
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+ background-color:#ffffff;
+  margin-bottom:0px;
+}
+  
+  
 .navbar-header{
 background-color:#ffffff;
 }
@@ -354,6 +375,15 @@ width:375px;
 }
 
 @media (min-width: 381px) and (max-width: 420px) {
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+ background-color:#ffffff;
+  margin-bottom:0px;
+}
+  
 .navbar-header{
 background-color:#ffffff;
 }
@@ -417,6 +447,14 @@ width:350px;
 
 }
 @media (min-width: 325px) and (max-width: 380px) {
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+ background-color:#ffffff;
+  margin-bottom:0px;
+}  
 .navbar-header{
 background-color:#ffffff;
 }
@@ -481,6 +519,14 @@ width:330px;
 }
 
 @media (max-width: 324px){
+
+#header-nav{
+
+  border-radius: 0;
+  border: 0;
+ background-color:#ffffff;
+  margin-bottom:0px;
+}  
 .navbar-header{
 background-color:#ffffff;
 }
